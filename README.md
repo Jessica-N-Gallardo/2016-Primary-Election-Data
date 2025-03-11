@@ -1,5 +1,3 @@
-# 2016-Primary-Election-Data
-Decoding the 2016 Ballot: Analyzing County Demographics &amp; Voting Partiality
 # Predicting Voter Tendencies Using County Demographics: Analysis of the 2016 Election
 
 ## Project Overview
